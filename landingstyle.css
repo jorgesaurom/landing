@@ -1,0 +1,30 @@
+body{
+
+text-align: center;
+color: yellow;
+background-image: url(https://conceptoabc.com/wp-content/uploads/2021/12/Universo.jpg) ;
+background-size: cover;
+}
+h1 {
+    font-size: 500%;
+}
+.parrafo{
+    color:white;
+    font-size: 300%;
+}
+
+.formulario{
+    padding: 6%;
+    text-align:center;
+    
+} 
+
+a {
+    font-size: 200%;
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    border: 3px solid;
+    text-decoration: none;
+    padding: 7px 13px;
+    font-weight: bold;
+}
